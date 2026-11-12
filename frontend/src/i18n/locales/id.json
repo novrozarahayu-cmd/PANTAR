@@ -1,0 +1,340 @@
+{
+  "nav": {
+    "home": "Beranda",
+    "reports": "Pengaduan",
+    "navigation": "Navigasi",
+    "faq": "FAQ",
+    "reportNow": "Laporkan Sekarang",
+    "adminPanel": "Panel Admin",
+    "dashboard": "Dashboard",
+    "adminReports": "Laporan Pengaduan",
+    "login": "Masuk",
+    "logout": "Keluar",
+    "officerLogin": "Masuk Petugas",
+    "menu": "Menu"
+  },
+  "common": {
+    "back": "Kembali",
+    "save": "Simpan",
+    "saving": "Menyimpan...",
+    "cancel": "Batal",
+    "delete": "Hapus",
+    "edit": "Ubah",
+    "add": "Tambah",
+    "close": "Tutup",
+    "search": "Cari",
+    "loading": "Memuat...",
+    "success": "Berhasil",
+    "error": "Terjadi kesalahan",
+    "action": "Aksi",
+    "date": "Tanggal",
+    "time": "Waktu",
+    "status": "Status",
+    "severity": "Tingkat Keparahan",
+    "type": "Tipe",
+    "all": "Semua",
+    "detail": "Detail",
+    "confirm": "Konfirmasi",
+    "view": "Lihat",
+    "yes": "Ya",
+    "no": "Tidak",
+    "address": "Alamat",
+    "coordinates": "Koordinat",
+    "notes": "Catatan",
+    "noData": "Tidak ada data ditemukan",
+    "next": "Selanjutnya",
+    "prev": "Sebelumnya",
+    "page": "Halaman"
+  },
+  "status": {
+    "menunggu": "Menunggu",
+    "diverifikasi": "Diverifikasi",
+    "diproses": "Diproses",
+    "selesai": "Selesai",
+    "ditolak": "Ditolak"
+  },
+  "severity": {
+    "ringan": "Ringan",
+    "sedang": "Sedang",
+    "berat": "Berat"
+  },
+  "type": {
+    "jalan": "Jalan Rusak",
+    "lampu-jalan": "Lampu Jalan",
+    "trotoar": "Trotoar",
+    "halte": "Halte",
+    "taman": "Taman",
+    "lainnya": "Lainnya",
+    "belum-ditentukan": "Belum Ditentukan"
+  },
+  "vehicle": {
+    "mobil": "Mobil",
+    "motor": "Sepeda Motor",
+    "jalan_kaki": "Jalan Kaki"
+  },
+  "home": {
+    "hero": {
+      "titlePrefix": "Temukan dan laporkan",
+      "titleSuffix": "di sekitarmu.",
+      "desc": "Bantu wujudkan lingkungan yang lebih aman dan nyaman dengan melaporkan kerusakan jalan serta fasilitas umum. Laporanmu membantu masyarakat dan petugas mengetahui masalah yang perlu segera ditangani.",
+      "ctaReport": "Laporkan Kerusakan",
+      "ctaExplore": "Lihat Laporan",
+      "trustReports": "Laporan masyarakat",
+      "trustResolved": "Pantau tindak lanjut",
+      "words": [
+        "Jalan berlubang",
+        "Lampu padam",
+        "Drainase mampet",
+        "Halte rusak",
+        "Trotoar retak",
+        "Jembatan retak"
+      ],
+      "mockup": {
+        "newReport": "Laporan baru",
+        "sampleRoad": "Lubang di Jl. Gatot Subroto",
+        "inProgress": "Sedang dikerjakan",
+        "officerOnSite": "Petugas sudah di lokasi.",
+        "photoAttached": "Foto & lokasi terlampir",
+        "waitingVerification": "Menunggu verifikasi",
+        "reported": "Dilaporkan",
+        "verified": "Diverifikasi",
+        "working": "Dikerjakan",
+        "resolved": "Selesai"
+      }
+    },
+    "categories": {
+      "title": "Bukan hanya jalan.",
+      "subtitle": "Apa pun fasilitas umum yang rusak di sekitarmu, bisa dilaporkan lewat satu tempat.",
+      "items": [
+        {
+          "title": "Jalan & jembatan",
+          "desc": "Lubang, retak, amblas, pagar jembatan rusak"
+        },
+        {
+          "title": "Penerangan jalan",
+          "desc": "Lampu padam, tiang miring, kabel menjuntai"
+        },
+        {
+          "title": "Drainase & banjir",
+          "desc": "Parit mampet, gorong-gorong rusak, penutup saluran hilang"
+        },
+        {
+          "title": "Trotoar & penyeberangan",
+          "desc": "Paving lepas, zebra cross pudar, rambu rusak"
+        },
+        {
+          "title": "Halte & transportasi",
+          "desc": "Halte rusak, papan informasi mati"
+        },
+        {
+          "title": "Taman & ruang terbuka",
+          "desc": "Bangku patah, alat bermain rusak, pohon tumbang"
+        },
+        {
+          "title": "Fasilitas publik",
+          "desc": "Toilet umum, gedung, tiang dan papan penunjuk"
+        },
+        {
+          "title": "Lainnya",
+          "desc": "Fasilitas umum lain yang kamu temui dalam kondisi rusak"
+        }
+      ]
+    },
+    "howItWorks": {
+      "title": "Dari laporan sampai selesai.",
+      "subtitle": "Empat langkah, tanpa harus bingung mencari tempat pengaduan.",
+      "steps": [
+        {
+          "title": "Laporkan kerusakan",
+          "desc": "Isi formulir singkat, unggah foto, dan tandai lokasinya langsung dari ponselmu."
+        },
+        {
+          "title": "Diverifikasi petugas",
+          "desc": "Petugas memeriksa laporanmu agar informasinya akurat dan bisa ditindaklanjuti."
+        },
+        {
+          "title": "Proses perbaikan",
+          "desc": "Penanganan dilakukan sesuai kondisi dan prioritas di lapangan."
+        },
+        {
+          "title": "Pantau perkembangan",
+          "desc": "Lihat status laporanmu dari awal sampai selesai, kapan saja."
+        }
+      ]
+    },
+    "navigationFeature": {
+      "tag": "Fitur navigasi",
+      "title": "Temukan rute terbaik, hindari jalan rusak.",
+      "desc": "Masukkan lokasi awal dan tujuan, lalu biarkan PantauJalan membantu kamu memahami kondisi perjalanan dan menemukan jalur alternatif. Navigasi ini tidak hanya mengarahkan, tetapi juga memberi tahu jalan mana yang rusak sebelum kamu melewatinya.",
+      "features": [
+        "Peta interaktif berbasis Leaflet & OpenStreetMap",
+        "Titik kerusakan yang sudah diverifikasi tampil di peta",
+        "Rute alternatif untuk menghindari jalan rusak",
+        "Detail kerusakan dan status perbaikannya"
+      ],
+      "highlights": [
+        {
+          "title": "Navigasi real-time",
+          "desc": "Ikuti arah perjalanan dengan panduan yang mudah dipahami."
+        },
+        {
+          "title": "Info kerusakan di rute",
+          "desc": "Lihat titik jalan rusak, foto, dan informasi kondisinya sebelum kamu melewatinya."
+        },
+        {
+          "title": "Rute alternatif",
+          "desc": "Temukan jalur lain untuk perjalanan yang lebih aman dan nyaman."
+        }
+      ],
+      "mapLegend": {
+        "damagedRoad": "Jalan rusak"
+      },
+      "cta": "Coba navigasi sekarang"
+    },
+    "impact": {
+      "title": "Setiap laporan berarti.",
+      "stats": [
+        { "label": "Laporan masuk" },
+        { "label": "Terselesaikan" },
+        { "label": "Kota terjangkau" },
+        { "label": "Lebih cepat" }
+      ]
+    },
+    "medanInfo": {
+      "title": "Kenali wilayahmu di Medan.",
+      "subtitle": "Tahu siapa camat di kecamatanmu memudahkan tindak lanjut laporan di tingkat wilayah.",
+      "facts": [
+        { "label": "Kecamatan" },
+        { "label": "Kelurahan" },
+        { "label": "Layanan darurat, bebas pulsa" }
+      ],
+      "sectionTitle": "Camat 21 kecamatan",
+      "searchPlaceholder": "Cari kecamatan atau nama",
+      "noResult": "Tidak ada hasil untuk \"{{query}}\".",
+      "pending": "Data menyusul"
+    },
+    "faq": {
+      "title": "Pertanyaan umum.",
+      "items": [
+        {
+          "q": "Apa saja yang bisa dilaporkan?",
+          "a": "Kerusakan fasilitas umum seperti jalan dan jembatan, lampu penerangan, drainase, trotoar, halte, taman, dan fasilitas publik lainnya."
+        },
+        {
+          "q": "Bagaimana cara membuat laporan?",
+          "a": "Buka halaman pengaduan, isi deskripsi singkat, unggah foto, lalu tandai lokasi kerusakan di peta."
+        },
+        {
+          "q": "Siapa yang memeriksa laporan saya?",
+          "a": "Petugas memverifikasi setiap laporan terlebih dahulu agar informasinya akurat sebelum ditindaklanjuti."
+        },
+        {
+          "q": "Bagaimana saya memantau perkembangannya?",
+          "a": "Status laporanmu dapat dilihat dari awal diverifikasi sampai perbaikan selesai."
+        },
+        {
+          "q": "Apa gunanya fitur navigasi?",
+          "a": "Peta menampilkan titik kerusakan yang sudah diverifikasi dan menawarkan rute alternatif, sehingga kamu bisa memilih jalur yang lebih aman."
+        }
+      ]
+    },
+    "finalCta": {
+      "titleLine1": "Lihat yang rusak?",
+      "titleLine2": "Laporkan sekarang.",
+      "subtitle": "Jalan dan fasilitas yang baik adalah hak setiap orang. Mulai dari satu laporan.",
+      "btnReport": "Buat laporan",
+      "btnExplore": "Lihat laporan warga",
+      "features": [
+        "Tanpa biaya",
+        "Cukup foto & lokasi",
+        "Status bisa dipantau"
+      ],
+      "bubbleQuestion": "Ada pengaduan?",
+      "bubbleAction": "Yuk, sampaikan di sini."
+    },
+    "footerDesc": "Platform pelaporan kerusakan fasilitas umum untuk Kota Medan.",
+    "footerRights": "Bersama untuk infrastruktur yang lebih baik."
+  },
+  "reports": {
+    "title": "Formulir Pengaduan",
+    "subtitle": "Sampaikan Pengaduanmu",
+    "listTitle": "Daftar Laporan Masyarakat",
+    "listSubtitle": "Pantau status perbaikan jalan dan fasilitas umum di seluruh Kota Medan",
+    "searchPlaceholder": "Cari berdasarkan judul atau lokasi...",
+    "filterStatus": "Filter Status",
+    "filterSeverity": "Filter Keparahan",
+    "totalReports": "Total Pengaduan",
+    "inProgressReports": "Sedang Dikerjakan",
+    "resolvedReports": "Telah Selesai",
+    "waitingReports": "Menunggu Validasi",
+    "form": {
+      "titleLabel": "Judul Laporan",
+      "titlePlaceholder": "Contoh: Jalan berlubang cukup dalam di Jl. Gatot Subroto",
+      "typeLabel": "Kategori Fasilitas",
+      "selectType": "Pilih jenis fasilitas",
+      "severityLabel": "Tingkat Keparahan",
+      "descriptionLabel": "Deskripsi Lengkap",
+      "descriptionPlaceholder": "Jelaskan detail kerusakan, perkiraan ukuran lubang, atau dampak bagi pengguna jalan...",
+      "locationLabel": "Titik Lokasi Kerusakan",
+      "searchLocation": "Cari nama jalan atau tempat di Medan...",
+      "useMyLocation": "Gunakan Lokasi Saya",
+      "pickFromMap": "Pilih dari Peta",
+      "uploadLabel": "Foto Bukti Kerusakan",
+      "uploadHint": "Unggah 1 hingga 5 foto (JPG, PNG, atau WebP, maks. 10MB per foto)",
+      "submitBtn": "Kirim Pengaduan Sekarang",
+      "submittingBtn": "Mengirim Pengaduan..."
+    },
+    "detail": {
+      "title": "Detail Pengaduan",
+      "backToList": "Kembali ke Daftar Laporan",
+      "timelineTitle": "Progres Perbaikan",
+      "noProgress": "Belum ada pembaruan progres dari petugas.",
+      "reportedAt": "Dilaporkan pada",
+      "updatedAt": "Pembaruan terakhir",
+      "locationOnMap": "Lokasi pada Peta",
+      "photos": "Foto Kerusakan"
+    }
+  },
+  "navigation": {
+    "title": "Navigasi Rute Aman",
+    "subtitle": "Cari rute perjalanan terbaik dengan menghindari titik jalan rusak di Kota Medan",
+    "originLabel": "Titik Keberangkatan (Asal)",
+    "originPlaceholder": "Pilih atau cari lokasi awal...",
+    "destinationLabel": "Titik Tujuan",
+    "destinationPlaceholder": "Pilih atau cari lokasi tujuan...",
+    "vehicleLabel": "Pilihan Kendaraan",
+    "findRouteBtn": "Cari Rute Aman",
+    "calculatingBtn": "Menghitung Rute Terbaik...",
+    "routeSummary": "Ringkasan Rute",
+    "distance": "Jarak",
+    "duration": "Estimasi Waktu",
+    "baselineRoute": "Rute Standar",
+    "safeRoute": "Rute Aman Rekomendasi",
+    "hazardsAvoided": "Titik Kerusakan Dihindari",
+    "noHazards": "Rute bebas hambatan terdata",
+    "legendTitle": "Keterangan Peta",
+    "legendOrigin": "Titik Awal",
+    "legendDestination": "Titik Tujuan",
+    "legendHazard": "Titik Kerusakan Jalan"
+  },
+  "admin": {
+    "loginTitle": "Masuk Administrator",
+    "loginSubtitle": "Silakan login menggunakan akun petugas resmi PantauJalan",
+    "emailLabel": "Alamat Email",
+    "emailPlaceholder": "admin@pantaujalan.go.id",
+    "passwordLabel": "Kata Sandi",
+    "passwordPlaceholder": "Masukkan kata sandi",
+    "loginBtn": "Masuk ke Panel",
+    "loggingInBtn": "Memproses Masuk...",
+    "dashboardTitle": "Dashboard Administrator",
+    "todayReports": "Laporan Hari Ini",
+    "statusChart": "Status Pengaduan",
+    "typeChart": "Kategori Fasilitas",
+    "regionChart": "Distribusi Wilayah",
+    "resolutionRate": "Tingkat Penyelesaian",
+    "addProgress": "Tambah Progres",
+    "editReport": "Ubah Laporan",
+    "deleteReportConfirm": "Apakah Anda yakin ingin menghapus laporan ini?",
+    "deleteReportText": "Tindakan ini tidak dapat dibatalkan!"
+  }
+}
