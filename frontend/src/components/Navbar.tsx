@@ -107,7 +107,7 @@ export default function Navbar() {
                             <LocationPin />
                         </span>
                         <span className="text-base font-extrabold tracking-tight text-slate-900">
-                            Pantau<span className="text-emerald-600">Jalan</span>
+                            PANTAR<span className="text-emerald-600">Jalan</span>
                         </span>
                     </Link>
 
