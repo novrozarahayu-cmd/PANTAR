@@ -7,6 +7,8 @@ import os from "os";
 import { connectDB } from "./config/db.js";
 import authRoutes from "./routes/auth.routes.js";
 import userRoutes from "./routes/user.routes.js";
+import reportRoutes from "./routes/report.routes.js";
+import validationRoutes from "./routes/validation.routes.js";
 import { notFound, errorHandler } from "./middlewares/errorHandler.js";
 import { success } from "./utils/responseFormatter.js";
 
@@ -35,6 +37,8 @@ app.get("/", (_req, res) =>
 
 app.use("/api/auth", authRoutes);
 app.use("/api/users", userRoutes);
+app.use("/api/reports", reportRoutes);
+app.use("/api/validation", validationRoutes);
 
 app.use(notFound);
 app.use(errorHandler);
