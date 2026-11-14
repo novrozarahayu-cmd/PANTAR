@@ -172,7 +172,7 @@ export default function NavigationFeatureSection() {
                         <p className="mt-5 max-w-xl text-base leading-7 text-[#52665a]">
                             {t(
                                 "home.navigationFeature.desc",
-                                "Masukkan lokasi awal dan tujuan, lalu biarkan PantauJalan membantu kamu memahami kondisi perjalanan dan menemukan jalur alternatif. Navigasi ini tidak hanya mengarahkan, tetapi juga memberi tahu jalan mana yang rusak sebelum kamu melewatinya."
+                                "Masukkan lokasi awal dan tujuan, lalu biarkan PANTAR membantu kamu memahami kondisi perjalanan dan menemukan jalur alternatif. Navigasi ini tidak hanya mengarahkan, tetapi juga memberi tahu jalan mana yang rusak sebelum kamu melewatinya."
                             )}
                         </p>
                     </Reveal>
