@@ -1,7 +1,7 @@
 import { useTranslation } from "react-i18next";
 
 /**
- * Mockup layar aplikasi PantauJalan, digambar dengan kode (tanpa file gambar).
+ * Mockup layar aplikasi PANTAR, digambar dengan kode (tanpa file gambar).
  * Semua data di dalamnya hanya contoh tampilan.
  */
 

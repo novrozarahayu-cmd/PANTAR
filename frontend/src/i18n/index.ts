@@ -12,7 +12,8 @@ export const SUPPORTED_LANGUAGES = [
   { code: "mdn", label: "Cakap Medan", short: "MDN", flag: "🟡" },
 ] as const;
 
-export type SupportedLanguageCode = (typeof SUPPORTED_LANGUAGES)[number]["code"];
+export type SupportedLanguageCode =
+  (typeof SUPPORTED_LANGUAGES)[number]["code"];
 
 i18n
   .use(LanguageDetector)
@@ -27,7 +28,7 @@ i18n
     supportedLngs: ["id", "en", "mdn"],
     detection: {
       order: ["localStorage", "navigator"],
-      lookupLocalStorage: "pantaujalan_lng",
+      lookupLocalStorage: "pantar_lng",
       caches: ["localStorage"],
     },
     interpolation: {

@@ -165,7 +165,7 @@
     "navigationFeature": {
       "tag": "Fitur navigasi",
       "title": "Cari rute paling paten, elakkan jalan sompek.",
-      "desc": "Ketik titik berangkat dan tujuan kelen, biar PantauJalan carikan jalan mulus tanpa lubang sompek di seantero Kota Medan. Navigasi ini ngasi tau duluan jalan mana yang bolong sebelum kelen lewatin.",
+      "desc": "Ketik titik berangkat dan tujuan kelen, biar PANTAR carikan jalan mulus tanpa lubang sompek di seantero Kota Medan. Navigasi ini ngasi tau duluan jalan mana yang bolong sebelum kelen lewatin.",
       "features": [
         "Peta interaktif Leaflet & OpenStreetMap",
         "Titik kerusakan yang udah dicek muncul di peta",
@@ -319,9 +319,9 @@
   },
   "admin": {
     "loginTitle": "Masuk Petugas",
-    "loginSubtitle": "Login pake akun resmi petugas PantauJalan",
+    "loginSubtitle": "Login pake akun resmi petugas PANTAR",
     "emailLabel": "Alamat Email",
-    "emailPlaceholder": "admin@pantaujalan.go.id",
+    "emailPlaceholder": "admin@PANTAR.go.id",
     "passwordLabel": "Kata Sandi",
     "passwordPlaceholder": "Ketik kata sandi kelen",
     "loginBtn": "Masuk ke Panel",

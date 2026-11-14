@@ -26,7 +26,7 @@ export default function Footer() {
                         <a
                             href="#beranda"
                             className="text-lg font-bold tracking-tight"
-                            aria-label="PantauJalan, kembali ke beranda"
+                            aria-label="PANTAR, kembali ke beranda"
                         >
                             Pantau<span className="text-[#0b7a52]">Jalan</span>
                         </a>
@@ -69,7 +69,7 @@ export default function Footer() {
                 </div>
 
                 <p className="mt-12 border-t border-[#dfeae3] pt-6 text-xs text-[#6b7c74]">
-                    © {new Date().getFullYear()} PantauJalan. {t("home.footerRights", "Bersama untuk infrastruktur yang lebih baik.")}
+                    © {new Date().getFullYear()} PANTAR. {t("home.footerRights", "Bersama untuk infrastruktur yang lebih baik.")}
                 </p>
             </div>
         </footer>

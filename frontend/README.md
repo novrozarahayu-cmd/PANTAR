@@ -1,12 +1,12 @@
-# PantauJalan Frontend
+# PANTAR Frontend
 
-Frontend aplikasi **PantauJalan**, platform untuk menyampaikan laporan kerusakan fasilitas umum, memantau progres penanganan, melihat statistik laporan, dan menggunakan navigasi yang mempertimbangkan titik kerusakan jalan.
+Frontend aplikasi **PANTAR**, platform untuk menyampaikan laporan kerusakan fasilitas umum, memantau progres penanganan, melihat statistik laporan, dan menggunakan navigasi yang mempertimbangkan titik kerusakan jalan.
 
 ## Fitur
 
 ### Area masyarakat
 
-- Halaman beranda dan informasi PantauJalan.
+- Halaman beranda dan informasi PANTAR.
 - Formulir pengaduan dengan detail kerusakan, foto, tingkat keparahan, dan lokasi.
 - Daftar laporan publik dengan pencarian dan filter.
 - Detail laporan beserta informasi dan timeline progres perbaikan.
@@ -40,7 +40,7 @@ Frontend aplikasi **PantauJalan**, platform untuk menyampaikan laporan kerusakan
 
 - Node.js versi 18 atau lebih baru
 - npm
-- Backend PantauJalan yang sudah berjalan atau URL API deployment
+- Backend PANTAR yang sudah berjalan atau URL API deployment
 
 ## Instalasi dan menjalankan
 
@@ -89,9 +89,9 @@ Vite akan menampilkan alamat lokal yang dapat dibuka di browser (umumnya `http:/
 
 ## Konfigurasi environment
 
-| Variabel            | Wajib | Keterangan                                                    |
-| ------------------- | ----: | ------------------------------------------------------------- |
-| `VITE_API_BASE_URL` |    Ya | Base URL backend PantauJalan, contoh `http://localhost:5000`. |
+| Variabel            | Wajib | Keterangan                                               |
+| ------------------- | ----: | -------------------------------------------------------- |
+| `VITE_API_BASE_URL` |    Ya | Base URL backend PANTAR, contoh `http://localhost:5000`. |
 
 Variabel dengan awalan `VITE_` akan terekspos ke bundle frontend. Jangan menyimpan secret, password, private API key, atau kredensial server di environment frontend.
 
@@ -187,7 +187,7 @@ Bahasa yang tersedia:
 - `en` — English
 - `mdn` — Cakap Medan
 
-Preferensi bahasa disimpan pada `localStorage` dengan key `pantaujalan_lng`. Bahasa fallback adalah Bahasa Indonesia.
+Preferensi bahasa disimpan pada `localStorage` dengan key `pantar_lng`. Bahasa fallback adalah Bahasa Indonesia.
 
 Saat menambahkan teks UI baru, tambahkan key terjemahan pada seluruh file locale agar tampilan konsisten.
 

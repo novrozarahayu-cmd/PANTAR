@@ -101,7 +101,7 @@ export default function Navbar() {
                     <Link
                         to="/"
                         className="flex shrink-0 items-center gap-1.5 rounded focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-emerald-600 focus-visible:ring-offset-2"
-                        aria-label="PantauJalan Beranda"
+                        aria-label="PANTAR Beranda"
                     >
                         <span className="text-emerald-600">
                             <LocationPin />

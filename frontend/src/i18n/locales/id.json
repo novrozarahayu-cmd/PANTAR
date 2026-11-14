@@ -165,7 +165,7 @@
     "navigationFeature": {
       "tag": "Fitur navigasi",
       "title": "Temukan rute terbaik, hindari jalan rusak.",
-      "desc": "Masukkan lokasi awal dan tujuan, lalu biarkan PantauJalan membantu kamu memahami kondisi perjalanan dan menemukan jalur alternatif. Navigasi ini tidak hanya mengarahkan, tetapi juga memberi tahu jalan mana yang rusak sebelum kamu melewatinya.",
+      "desc": "Masukkan lokasi awal dan tujuan, lalu biarkan PANTAR membantu kamu memahami kondisi perjalanan dan menemukan jalur alternatif. Navigasi ini tidak hanya mengarahkan, tetapi juga memberi tahu jalan mana yang rusak sebelum kamu melewatinya.",
       "features": [
         "Peta interaktif berbasis Leaflet & OpenStreetMap",
         "Titik kerusakan yang sudah diverifikasi tampil di peta",
@@ -319,9 +319,9 @@
   },
   "admin": {
     "loginTitle": "Masuk Administrator",
-    "loginSubtitle": "Silakan login menggunakan akun petugas resmi PantauJalan",
+    "loginSubtitle": "Silakan login menggunakan akun petugas resmi PANTAR",
     "emailLabel": "Alamat Email",
-    "emailPlaceholder": "admin@pantaujalan.go.id",
+    "emailPlaceholder": "admin@PANTAR.go.id",
     "passwordLabel": "Kata Sandi",
     "passwordPlaceholder": "Masukkan kata sandi",
     "loginBtn": "Masuk ke Panel",

@@ -165,7 +165,7 @@
     "navigationFeature": {
       "tag": "Navigation feature",
       "title": "Find the best route, avoid damaged roads.",
-      "desc": "Enter start and destination, and let PantauJalan assess your journey conditions and suggest alternative paths. This navigation not only guides you, but also alerts you to damaged streets ahead of time.",
+      "desc": "Enter start and destination, and let PANTAR assess your journey conditions and suggest alternative paths. This navigation not only guides you, but also alerts you to damaged streets ahead of time.",
       "features": [
         "Interactive map powered by Leaflet & OpenStreetMap",
         "Verified road hazard spots shown on the live map",
@@ -319,9 +319,9 @@
   },
   "admin": {
     "loginTitle": "Administrator Sign In",
-    "loginSubtitle": "Please sign in using your official PantauJalan officer account",
+    "loginSubtitle": "Please sign in using your official PANTAR officer account",
     "emailLabel": "Email Address",
-    "emailPlaceholder": "admin@pantaujalan.go.id",
+    "emailPlaceholder": "admin@pantar.com",
     "passwordLabel": "Password",
     "passwordPlaceholder": "Enter password",
     "loginBtn": "Sign In to Panel",
