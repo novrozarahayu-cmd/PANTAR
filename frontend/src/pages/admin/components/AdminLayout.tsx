@@ -55,7 +55,7 @@ function Sidebar({ compact, userName, onNavigate, onLogout }: SidebarProps) {
         {!compact && (
           <div className="min-w-0">
             <p className="text-[15px] font-extrabold tracking-tight text-slate-900">
-              PANTAR<span className="text-emerald-600">Jalan</span>
+              <span className="text-emerald-600">PANTAR</span>
             </p>
             <p className="text-xs text-slate-500">{t("nav.adminPanel", "Panel admin")}</p>
           </div>

@@ -28,7 +28,7 @@ export default function Footer() {
                             className="text-lg font-bold tracking-tight"
                             aria-label="PANTAR, kembali ke beranda"
                         >
-                            PANTAR<span className="text-[#0b7a52]">Jalan</span>
+                            <span className="text-[#0b7a52]">PANTAR</span>
                         </a>
                         <p className="mt-3 text-sm leading-6 text-[#4b5d55]">
                             {t("home.footerDesc", "Platform pelaporan kerusakan fasilitas umum untuk Kota Medan.")}
