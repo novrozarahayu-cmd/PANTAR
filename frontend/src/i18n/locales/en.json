@@ -1,0 +1,340 @@
+{
+  "nav": {
+    "home": "Home",
+    "reports": "Reports",
+    "navigation": "Navigation",
+    "faq": "FAQ",
+    "reportNow": "Report Issue",
+    "adminPanel": "Admin Panel",
+    "dashboard": "Dashboard",
+    "adminReports": "Manage Reports",
+    "login": "Sign In",
+    "logout": "Sign Out",
+    "officerLogin": "Officer Login",
+    "menu": "Menu"
+  },
+  "common": {
+    "back": "Back",
+    "save": "Save",
+    "saving": "Saving...",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "add": "Add",
+    "close": "Close",
+    "search": "Search",
+    "loading": "Loading...",
+    "success": "Success",
+    "error": "An error occurred",
+    "action": "Action",
+    "date": "Date",
+    "time": "Time",
+    "status": "Status",
+    "severity": "Severity Level",
+    "type": "Type",
+    "all": "All",
+    "detail": "Detail",
+    "confirm": "Confirm",
+    "view": "View",
+    "yes": "Yes",
+    "no": "No",
+    "address": "Address",
+    "coordinates": "Coordinates",
+    "notes": "Notes",
+    "noData": "No data found",
+    "next": "Next",
+    "prev": "Previous",
+    "page": "Page"
+  },
+  "status": {
+    "menunggu": "Pending",
+    "diverifikasi": "Verified",
+    "diproses": "In Progress",
+    "selesai": "Resolved",
+    "ditolak": "Rejected"
+  },
+  "severity": {
+    "ringan": "Low",
+    "sedang": "Medium",
+    "berat": "High"
+  },
+  "type": {
+    "jalan": "Damaged Road",
+    "lampu-jalan": "Street Light",
+    "trotoar": "Sidewalk",
+    "halte": "Bus Stop",
+    "taman": "Park",
+    "lainnya": "Other",
+    "belum-ditentukan": "Unspecified"
+  },
+  "vehicle": {
+    "mobil": "Car",
+    "motor": "Motorcycle",
+    "jalan_kaki": "Walking"
+  },
+  "home": {
+    "hero": {
+      "titlePrefix": "Discover and report",
+      "titleSuffix": "around you.",
+      "desc": "Help build a safer and more comfortable city by reporting road and public facility damage. Your reports assist citizens and municipal officers in addressing issues swiftly.",
+      "ctaReport": "Report Issue",
+      "ctaExplore": "View Reports",
+      "trustReports": "Citizen reports",
+      "trustResolved": "Follow-up tracking",
+      "words": [
+        "Potholes",
+        "Out of order lights",
+        "Clogged drains",
+        "Damaged bus stops",
+        "Broken sidewalks",
+        "Bridge cracks"
+      ],
+      "mockup": {
+        "newReport": "New report",
+        "sampleRoad": "Pothole on Jl. Gatot Subroto",
+        "inProgress": "Work in progress",
+        "officerOnSite": "Officers arrived at the location.",
+        "photoAttached": "Photo & location attached",
+        "waitingVerification": "Awaiting review",
+        "reported": "Reported",
+        "verified": "Verified",
+        "working": "Working",
+        "resolved": "Resolved"
+      }
+    },
+    "categories": {
+      "title": "Not just roads.",
+      "subtitle": "Whatever public facility needs attention, report it in one place.",
+      "items": [
+        {
+          "title": "Roads & bridges",
+          "desc": "Potholes, cracks, subsidence, broken bridge railings"
+        },
+        {
+          "title": "Street lighting",
+          "desc": "Broken lamps, tilted poles, dangling electrical wires"
+        },
+        {
+          "title": "Drainage & flooding",
+          "desc": "Clogged ditches, broken culverts, missing drain covers"
+        },
+        {
+          "title": "Sidewalks & crossings",
+          "desc": "Loose paving, faded zebra crosses, damaged traffic signs"
+        },
+        {
+          "title": "Bus stops & transit",
+          "desc": "Damaged shelters, inactive electronic info boards"
+        },
+        {
+          "title": "Parks & open spaces",
+          "desc": "Broken benches, damaged playground sets, fallen trees"
+        },
+        {
+          "title": "Public facilities",
+          "desc": "Public restrooms, civic buildings, directional signage"
+        },
+        {
+          "title": "Others",
+          "desc": "Any other public facilities encountered in broken condition"
+        }
+      ]
+    },
+    "howItWorks": {
+      "title": "From report to completion.",
+      "subtitle": "Four simple steps, without the confusion of searching where to complain.",
+      "steps": [
+        {
+          "title": "Report damage",
+          "desc": "Fill a quick form, upload photos, and pin the location directly from your phone."
+        },
+        {
+          "title": "Officer verification",
+          "desc": "Staff verify your report to ensure details are accurate before dispatch."
+        },
+        {
+          "title": "Repair process",
+          "desc": "Repairs are carried out according to urgency and on-site priorities."
+        },
+        {
+          "title": "Track progress",
+          "desc": "Monitor your report status anytime from submission through resolution."
+        }
+      ]
+    },
+    "navigationFeature": {
+      "tag": "Navigation feature",
+      "title": "Find the best route, avoid damaged roads.",
+      "desc": "Enter start and destination, and let PANTAR assess your journey conditions and suggest alternative paths. This navigation not only guides you, but also alerts you to damaged streets ahead of time.",
+      "features": [
+        "Interactive map powered by Leaflet & OpenStreetMap",
+        "Verified road hazard spots shown on the live map",
+        "Smart alternative paths avoiding broken roads",
+        "Damage descriptions and real-time repair progress"
+      ],
+      "highlights": [
+        {
+          "title": "Real-time navigation",
+          "desc": "Follow trip directions with clear, intuitive guidance."
+        },
+        {
+          "title": "Hazard alerts along route",
+          "desc": "Preview pothole locations, photos, and road conditions before driving through."
+        },
+        {
+          "title": "Alternative routes",
+          "desc": "Explore alternative paths for safer, smoother travels."
+        }
+      ],
+      "mapLegend": {
+        "damagedRoad": "Damaged road"
+      },
+      "cta": "Try navigation now"
+    },
+    "impact": {
+      "title": "Every report matters.",
+      "stats": [
+        { "label": "Incoming reports" },
+        { "label": "Resolved" },
+        { "label": "Districts covered" },
+        { "label": "Faster response" }
+      ]
+    },
+    "medanInfo": {
+      "title": "Know your area in Medan.",
+      "subtitle": "Knowing your subdistrict head (camat) eases follow-up at the neighborhood level.",
+      "facts": [
+        { "label": "Districts" },
+        { "label": "Subdistricts" },
+        { "label": "Emergency hotline, toll-free" }
+      ],
+      "sectionTitle": "Heads of 21 districts",
+      "searchPlaceholder": "Search district or head name",
+      "noResult": "No results found for \"{{query}}\".",
+      "pending": "Data pending"
+    },
+    "faq": {
+      "title": "Frequently Asked Questions.",
+      "items": [
+        {
+          "q": "What kind of issues can be reported?",
+          "a": "Public road and facility issues such as roads, bridges, streetlights, drainage, sidewalks, bus shelters, parks, and other civic assets."
+        },
+        {
+          "q": "How do I submit a report?",
+          "a": "Open the report page, write a brief description, upload photos, and pin the damaged location on the map."
+        },
+        {
+          "q": "Who reviews my report?",
+          "a": "Municipal officers review each submission for authenticity before dispatching maintenance teams."
+        },
+        {
+          "q": "How can I monitor the repair progress?",
+          "a": "You can follow milestone updates from initial verification through repair completion."
+        },
+        {
+          "q": "What is the benefit of the navigation feature?",
+          "a": "The map displays verified road hazards and calculates detour routes so you can drive safely."
+        }
+      ]
+    },
+    "finalCta": {
+      "titleLine1": "Spotted road damage?",
+      "titleLine2": "Report it right now.",
+      "subtitle": "Safe roads and dependable public facilities are everyone's right. Start with a single report.",
+      "btnReport": "Submit report",
+      "btnExplore": "View citizen reports",
+      "features": [
+        "Free of charge",
+        "Photos & pin location only",
+        "Trackable status"
+      ],
+      "bubbleQuestion": "Got an issue to report?",
+      "bubbleAction": "Let us know right here."
+    },
+    "footerDesc": "Public infrastructure damage reporting platform for Medan City.",
+    "footerRights": "Together for better city infrastructure."
+  },
+  "reports": {
+    "title": "Damage Report Form",
+    "subtitle": "Submit public report",
+    "listTitle": "Public Reports Directory",
+    "listSubtitle": "Track progress and status of street repairs across Medan City",
+    "searchPlaceholder": "Search by title or location...",
+    "filterStatus": "Filter Status",
+    "filterSeverity": "Filter Severity",
+    "totalReports": "Total Reports",
+    "inProgressReports": "In Progress",
+    "resolvedReports": "Resolved",
+    "waitingReports": "Pending Review",
+    "form": {
+      "titleLabel": "Report Title",
+      "titlePlaceholder": "e.g., Deep pothole along Jl. Gatot Subroto",
+      "typeLabel": "Facility Category",
+      "selectType": "Select facility type",
+      "severityLabel": "Severity Level",
+      "descriptionLabel": "Full Description",
+      "descriptionPlaceholder": "Detail the issue, approximate pothole depth, or impact on traffic...",
+      "locationLabel": "Damage Location",
+      "searchLocation": "Search street name or landmark in Medan...",
+      "useMyLocation": "Use My Location",
+      "pickFromMap": "Pick on Map",
+      "uploadLabel": "Photo Evidence",
+      "uploadHint": "Upload 1 to 5 images (JPG, PNG, or WebP, max 10MB each)",
+      "submitBtn": "Submit Report Now",
+      "submittingBtn": "Submitting Report..."
+    },
+    "detail": {
+      "title": "Report Details",
+      "backToList": "Back to Reports List",
+      "timelineTitle": "Repair Progress",
+      "noProgress": "No progress updates published yet.",
+      "reportedAt": "Reported on",
+      "updatedAt": "Last updated",
+      "locationOnMap": "Location on Map",
+      "photos": "Attached Photos"
+    }
+  },
+  "navigation": {
+    "title": "Safe Route Navigation",
+    "subtitle": "Find the safest driving path while avoiding known potholes and road damages in Medan",
+    "originLabel": "Origin Point",
+    "originPlaceholder": "Select or search starting point...",
+    "destinationLabel": "Destination Point",
+    "destinationPlaceholder": "Select or search destination...",
+    "vehicleLabel": "Vehicle Type",
+    "findRouteBtn": "Find Safe Route",
+    "calculatingBtn": "Calculating Safest Route...",
+    "routeSummary": "Route Summary",
+    "distance": "Distance",
+    "duration": "Estimated Duration",
+    "baselineRoute": "Standard Route",
+    "safeRoute": "Recommended Safe Route",
+    "hazardsAvoided": "Hazards Avoided",
+    "noHazards": "Clear route without reported hazards",
+    "legendTitle": "Map Legend",
+    "legendOrigin": "Start Location",
+    "legendDestination": "Destination",
+    "legendHazard": "Road Damage Spot"
+  },
+  "admin": {
+    "loginTitle": "Administrator Sign In",
+    "loginSubtitle": "Please sign in using your official PANTAR officer account",
+    "emailLabel": "Email Address",
+    "emailPlaceholder": "admin@pantar.com",
+    "passwordLabel": "Password",
+    "passwordPlaceholder": "Enter password",
+    "loginBtn": "Sign In to Panel",
+    "loggingInBtn": "Signing In...",
+    "dashboardTitle": "Admin Dashboard",
+    "todayReports": "Today's Reports",
+    "statusChart": "Reports by Status",
+    "typeChart": "Reports by Category",
+    "regionChart": "District Distribution",
+    "resolutionRate": "Resolution Rate",
+    "addProgress": "Add Progress",
+    "editReport": "Edit Report",
+    "deleteReportConfirm": "Are you sure you want to delete this report?",
+    "deleteReportText": "This action cannot be undone!"
+  }
+}

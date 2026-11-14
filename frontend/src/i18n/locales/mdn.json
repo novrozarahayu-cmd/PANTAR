@@ -1,0 +1,340 @@
+{
+  "nav": {
+    "home": "Beranda",
+    "reports": "Aduan Warga",
+    "navigation": "Rute Aman",
+    "faq": "Tanya Jawab",
+    "reportNow": "Lapor Skrg, Lek!",
+    "adminPanel": "Panel Admin",
+    "dashboard": "Papan Info",
+    "adminReports": "Data Pengaduan",
+    "login": "Masuk",
+    "officerLogin": "Masuk Petugas",
+    "logout": "Keluar",
+    "menu": "Menu"
+  },
+  "common": {
+    "back": "Balik",
+    "save": "Simpan",
+    "saving": "Lagi nyimpan...",
+    "cancel": "Gak Jadi",
+    "delete": "Hapus",
+    "edit": "Ubah",
+    "add": "Tambah",
+    "close": "Tutup",
+    "search": "Cari",
+    "loading": "Sabar ya, lagi muat...",
+    "success": "Mantap, berhasil!",
+    "error": "Alamak, ada masalah!",
+    "action": "Aksi",
+    "date": "Tanggal",
+    "time": "Jam",
+    "status": "Kondisi",
+    "severity": "Parahnya",
+    "type": "Macam Fasilitas",
+    "all": "Semuanya",
+    "detail": "Tengok Detail",
+    "confirm": "Pas kan?",
+    "view": "Tengok",
+    "yes": "Iyo / Pas",
+    "no": "Nggak",
+    "address": "Alamat Jalan",
+    "coordinates": "Titik Koordinat",
+    "notes": "Catatan",
+    "noData": "Kosong, belum ada data",
+    "next": "Lanjut",
+    "prev": "Balik",
+    "page": "Hal"
+  },
+  "status": {
+    "menunggu": "Nunggu Giliran",
+    "diverifikasi": "Lagi Dicek",
+    "diproses": "Lagi Dikerjain",
+    "selesai": "Siap Mantap",
+    "ditolak": "Ditolak"
+  },
+  "severity": {
+    "ringan": "Ringan Aja",
+    "sedang": "Lumayan",
+    "berat": "Parah Kali"
+  },
+  "type": {
+    "jalan": "Jalan Bolong/Sompek",
+    "lampu-jalan": "Lampu Jalan Mati",
+    "trotoar": "Trotoar Rusak",
+    "halte": "Halte Bus",
+    "taman": "Taman Kota",
+    "lainnya": "Lain-lain",
+    "belum-ditentukan": "Belum Jelas"
+  },
+  "vehicle": {
+    "mobil": "Mobil",
+    "motor": "Kereta (Motor)",
+    "jalan_kaki": "Jalan Kaki"
+  },
+  "home": {
+    "hero": {
+      "titlePrefix": "Tengok dan laporkan",
+      "titleSuffix": "di sekitarmu, Lek.",
+      "desc": "Biar kota kita makin paten! Ada jalan sompek, lubang jebakan, atau fasilitas rusak di Medan? Lapor skrg biar lekas dibetulin petugas.",
+      "ctaReport": "Lapor Kerusakan",
+      "ctaExplore": "Tengok Laporan",
+      "trustReports": "Aduan warga Medan",
+      "trustResolved": "Pantau tindak lanjut",
+      "words": [
+        "Jalan sompek",
+        "Lampu padam",
+        "Parit tumpat",
+        "Halte pecah",
+        "Trotoar retak",
+        "Titi retak"
+      ],
+      "mockup": {
+        "newReport": "Laporan anyar",
+        "sampleRoad": "Lubang di Simpang Gatot Subroto",
+        "inProgress": "Lagi dikerjain",
+        "officerOnSite": "Petugas udah sampai di lokasi.",
+        "photoAttached": "Foto & titik lokasi pas",
+        "waitingVerification": "Nunggu dicek",
+        "reported": "Dilaporin",
+        "verified": "Dicek",
+        "working": "Dikerjain",
+        "resolved": "Siap Mantap"
+      }
+    },
+    "categories": {
+      "title": "Bukan cuma jalan aja.",
+      "subtitle": "Apapun fasilitas umum yang rusak di Medan, bisa kelen laporin di satu tempat ini.",
+      "items": [
+        {
+          "title": "Jalan & titi",
+          "desc": "Lubang, retak, amblas, pagar titi rusak"
+        },
+        {
+          "title": "Lampu jalan",
+          "desc": "Lampu padam, tiang miring, kabel terjuntai"
+        },
+        {
+          "title": "Parit & banjir",
+          "desc": "Parit tumpat, gorong-gorong rusak, penutup parit hilang"
+        },
+        {
+          "title": "Trotoar & penyeberangan",
+          "desc": "Paving lepas, zebra cross pudar, rambu rusak"
+        },
+        {
+          "title": "Halte & angkutan",
+          "desc": "Halte sompek, papan informasi mati"
+        },
+        {
+          "title": "Taman & ruang terbuka",
+          "desc": "Bangku patah, ayunan rusak, pokok kayu tumbang"
+        },
+        {
+          "title": "Fasilitas umum",
+          "desc": "Toilet umum, gedung dinas, plang penunjuk jalan"
+        },
+        {
+          "title": "Lain-lain",
+          "desc": "Fasilitas publik lain yang kelen tengok udah rusak"
+        }
+      ]
+    },
+    "howItWorks": {
+      "title": "Dari lapor sampai jalan mulus kembali.",
+      "subtitle": "Cuma empat langkah gampang, gak pake ribet mondar-mandir.",
+      "steps": [
+        {
+          "title": "Lapor kerusakan",
+          "desc": "Isi form singkat, jepret foto, tandai titiknya dari hape kelen."
+        },
+        {
+          "title": "Dicek sama tim",
+          "desc": "Petugas langsung verifikasi biar datanya akurat dan jelas."
+        },
+        {
+          "title": "Proses perbaikan",
+          "desc": "Dinas terkait turun ke jalan ngerjain titik yang rusak parah."
+        },
+        {
+          "title": "Pantau perkembangannya",
+          "desc": "Tengok status pengerjaan dari awal sampai jalannya paten lagi."
+        }
+      ]
+    },
+    "navigationFeature": {
+      "tag": "Fitur navigasi",
+      "title": "Cari rute paling paten, elakkan jalan sompek.",
+      "desc": "Ketik titik berangkat dan tujuan kelen, biar PANTAR carikan jalan mulus tanpa lubang sompek di seantero Kota Medan. Navigasi ini ngasi tau duluan jalan mana yang bolong sebelum kelen lewatin.",
+      "features": [
+        "Peta interaktif Leaflet & OpenStreetMap",
+        "Titik kerusakan yang udah dicek muncul di peta",
+        "Rute alternatif buat ngelak jalan rusak",
+        "Detail lengkap info kerusakan dan progresnya"
+      ],
+      "highlights": [
+        {
+          "title": "Navigasi langsung",
+          "desc": "Ikuti panduan arah jalan yang gampang dipahami."
+        },
+        {
+          "title": "Peringatan jalan rusak",
+          "desc": "Tengok foto dan kondisi lubang sebelum kelen lewat."
+        },
+        {
+          "title": "Rute pilihan lain",
+          "desc": "Cari rute memutar yang lebih mulus dan aman buat kereta atau mobil."
+        }
+      ],
+      "mapLegend": {
+        "damagedRoad": "Jalan sompek/rusak"
+      },
+      "cta": "Coba cari rute sekarang"
+    },
+    "impact": {
+      "title": "Setiap aduan kelen berarti.",
+      "stats": [
+        { "label": "Laporan masuk" },
+        { "label": "Udah beres" },
+        { "label": "Kecamatan terdata" },
+        { "label": "Lebih cepat beres" }
+      ]
+    },
+    "medanInfo": {
+      "title": "Kenali wilayah kelen di Medan.",
+      "subtitle": "Biar tau siapa camat di kecamatan kelen, gampang ngadunya kalau ada apa-apa.",
+      "facts": [
+        { "label": "Kecamatan" },
+        { "label": "Kelurahan" },
+        { "label": "Layanan darurat bebas pulsa" }
+      ],
+      "sectionTitle": "Camat di 21 kecamatan",
+      "searchPlaceholder": "Cari kecamatan atau nama camat",
+      "noResult": "Gak ada hasil untuk \"{{query}}\".",
+      "pending": "Data menyusul ya"
+    },
+    "faq": {
+      "title": "Tanya Jawab Seputar Aplikasi.",
+      "items": [
+        {
+          "q": "Apa aja yang bisa dilaporkan di sini?",
+          "a": "Fasilitas umum rusak di Medan: jalan, titi, lampu jalan padam, parit tumpat, trotoar sompek, halte, dan taman kota."
+        },
+        {
+          "q": "Gimana cara bikin laporannya?",
+          "a": "Buka menu aduan, tulis deskripsinya, kirim foto kerusakannya, terus tandai lokasinya di peta."
+        },
+        {
+          "q": "Siapa yang meriksa laporan saya?",
+          "a": "Petugas resmi langsung ngecek biar infonya valid sebelum dikirim ke dinas yang bersangkutan."
+        },
+        {
+          "q": "Gimana cara mantau hasilnya?",
+          "a": "Tinggal tengok di halaman laporan, statusnya ter-update dari dicek sampai perbaikan selesai."
+        },
+        {
+          "q": "Apa gunanya fitur navigasi ini?",
+          "a": "Peta bakal ngasih tau titik jalan sompek dan nyariin rute alternatif biar kelen gak terperosok lubang."
+        }
+      ]
+    },
+    "finalCta": {
+      "titleLine1": "Nampak jalan sompek?",
+      "titleLine2": "Laporkan sekarang, Lek!",
+      "subtitle": "Jalan mulus dan fasilitas paten itu hak kita semua. Mulai dari satu aduan kelen.",
+      "btnReport": "Buat laporan",
+      "btnExplore": "Tengok aduan warga",
+      "features": [
+        "Gratis tanpa bayar",
+        "Cukup foto & tunjuk titiknya",
+        "Bisa dipantau terus"
+      ],
+      "bubbleQuestion": "Ada fasilitas rusak?",
+      "bubbleAction": "Yuk, kasi tau di sini."
+    },
+    "footerDesc": "Wadah pengaduan fasilitas umum rusak untuk warga Kota Medan.",
+    "footerRights": "Biar Medan makin paten dan rapi."
+  },
+  "reports": {
+    "title": "Borang Pengaduan",
+    "subtitle": "Laporkan Jalan Kau",
+    "listTitle": "Daftar Aduan Warga Medan",
+    "listSubtitle": "Pantau jalan mana aja yang udah dan lagi diperbaiki",
+    "searchPlaceholder": "Cari judul atau nama jalan di Medan...",
+    "filterStatus": "Saring Status",
+    "filterSeverity": "Saring Keparahan",
+    "totalReports": "Semua Laporan",
+    "inProgressReports": "Lagi Dikerjain",
+    "resolvedReports": "Udah Beres",
+    "waitingReports": "Nunggu Verifikasi",
+    "form": {
+      "titleLabel": "Judul Laporan",
+      "titlePlaceholder": "Misal: Lubang gede kali di Simpang Pos Jl. Jamin Ginting",
+      "typeLabel": "Jenis Fasilitas",
+      "selectType": "Pilih jenis fasilitas",
+      "severityLabel": "Tingkat Bahayanya",
+      "descriptionLabel": "Ceritain Detail Kerusakannya",
+      "descriptionPlaceholder": "Jelasin seberapa parah lubangnya, bahaya buat kereta atau mobil...",
+      "locationLabel": "Titik Pas Lokasi",
+      "searchLocation": "Ketik nama jalan atau patokan di Medan...",
+      "useMyLocation": "Pake Posisi Saya Skrg",
+      "pickFromMap": "Tunjuk di Peta",
+      "uploadLabel": "Bukti Foto",
+      "uploadHint": "Kirim 1 sampai 5 foto (JPG, PNG, atau WebP, maks. 10MB per foto)",
+      "submitBtn": "Kirim Laporannya Sekarang!",
+      "submittingBtn": "Lagi Dikirim, Tunggu ya..."
+    },
+    "detail": {
+      "title": "Detail Aduan",
+      "backToList": "Balik ke Daftar Aduan",
+      "timelineTitle": "Riwayat Pengerjaan",
+      "noProgress": "Belum ada laporan tindak lanjut dari petugas.",
+      "reportedAt": "Dilaporin tanggal",
+      "updatedAt": "Update terakhir",
+      "locationOnMap": "Titik di Peta",
+      "photos": "Foto Kerusakan"
+    }
+  },
+  "navigation": {
+    "title": "Cari Rute Jalan Aman",
+    "subtitle": "Hindari jalan sompek dan lubang bahaya waktu keliling Medan",
+    "originLabel": "Mulai dari Mana (Asal)",
+    "originPlaceholder": "Ketik titik berangkat kelen...",
+    "destinationLabel": "Mau ke Mana (Tujuan)",
+    "destinationPlaceholder": "Ketik tujuan kelen...",
+    "vehicleLabel": "Naik Apa Kelen?",
+    "findRouteBtn": "Cari Jalan Paling Aman",
+    "calculatingBtn": "Lagi dihitungin rute paling aman...",
+    "routeSummary": "Ringkasan Perjalanan",
+    "distance": "Jarak Tempuh",
+    "duration": "Kira-kira Sampai",
+    "baselineRoute": "Rute Biasa",
+    "safeRoute": "Rute Aman Pilihan",
+    "hazardsAvoided": "Titik Bahaya yang Dielakkan",
+    "noHazards": "Jalanan aman sentosa, gak ada laporan lubang",
+    "legendTitle": "Tanda di Peta",
+    "legendOrigin": "Titik Berangkat",
+    "legendDestination": "Titik Tujuan",
+    "legendHazard": "Titik Jalan Bolong/Rusak"
+  },
+  "admin": {
+    "loginTitle": "Masuk Petugas",
+    "loginSubtitle": "Login pake akun resmi petugas PANTAR",
+    "emailLabel": "Alamat Email",
+    "emailPlaceholder": "admin@PANTAR.go.id",
+    "passwordLabel": "Kata Sandi",
+    "passwordPlaceholder": "Ketik kata sandi kelen",
+    "loginBtn": "Masuk ke Panel",
+    "loggingInBtn": "Lagi Masuk...",
+    "dashboardTitle": "Papan Pantau Admin",
+    "todayReports": "Laporan Hari Ini",
+    "statusChart": "Status Laporan",
+    "typeChart": "Jenis Fasilitas",
+    "regionChart": "Sebaran Kecamatan",
+    "resolutionRate": "Tingkat Selesai",
+    "addProgress": "Tambah Update Kerja",
+    "editReport": "Ubah Laporan",
+    "deleteReportConfirm": "Betulan mau dihapus laporan ini?",
+    "deleteReportText": "Kalo udah dihapus gak bisa balik lagi lho!"
+  }
+}
